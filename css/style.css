@@ -3,5 +3,22 @@
 }
 
 #byme {
-    font-size: 10;
+    font-size: 1000;
+}
+
+.header {
+    top: 0;
+    position: -webkit-sticky;
+    position: sticky;
+    padding: 60px;
+    text-align: center;
+    background: #000000;
+    color: #FFFFFF;
+    width: auto;
+    height: 50px;
+}
+
+.NavButton {
+    height: ;
+    width: ;
 }
